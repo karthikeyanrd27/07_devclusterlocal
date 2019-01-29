@@ -1,0 +1,372 @@
+2018-09-07 11:18:45 WARN  NativeCodeLoader:62 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+http://localhost:8081/subjects/NBC_APPS.TBL_MS_PROPERTY-value/versions/1
+{"type":"record","name":"person","fields":[{"name":"table1","type":"string"},{"name":"op_type","type":"string"},{"name":"op_ts","type":"string"},{"name":"current_ts","type":"string"},{"name":"pos","type":"string"},{"name":"PROPERTY_ID","type":"int"},{"name":"PROPERTY_NAME","type":"string"},{"name":"NETWORK_ID","type":"string"},{"name":"PARENT_CHANNEL_ID","type":"string"},{"name":"AUTOMATION_CODE","type":"string"},{"name":"AUTOMATION_NAME","type":"string"},{"name":"CALL_SIGN_NAME","type":"string"},{"name":"SALES_DAYPART_SET_ID","type":"string"},{"name":"CREATE_DATE","type":"string"},{"name":"RATED_NETWORK","type":"string"}]}
+"string"
+<class 'str'>
+<class 'list'>
+table1
+string
+StructField("table1",string,nullable = True)
+['StructField("table1",string,nullable = True)']
+op_type
+string
+StructField("op_type",string,nullable = True)
+['StructField("table1",string,nullable = True)', 'StructField("op_type",string,nullable = True)']
+op_ts
+string
+StructField("op_ts",string,nullable = True)
+['StructField("table1",string,nullable = True)', 'StructField("op_type",string,nullable = True)', 'StructField("op_ts",string,nullable = True)']
+current_ts
+string
+StructField("current_ts",string,nullable = True)
+['StructField("table1",string,nullable = True)', 'StructField("op_type",string,nullable = True)', 'StructField("op_ts",string,nullable = True)', 'StructField("current_ts",string,nullable = True)']
+pos
+string
+StructField("pos",string,nullable = True)
+['StructField("table1",string,nullable = True)', 'StructField("op_type",string,nullable = True)', 'StructField("op_ts",string,nullable = True)', 'StructField("current_ts",string,nullable = True)', 'StructField("pos",string,nullable = True)']
+PROPERTY_ID
+int
+StructField("PROPERTY_ID",int,nullable = True)
+['StructField("table1",string,nullable = True)', 'StructField("op_type",string,nullable = True)', 'StructField("op_ts",string,nullable = True)', 'StructField("current_ts",string,nullable = True)', 'StructField("pos",string,nullable = True)', 'StructField("PROPERTY_ID",int,nullable = True)']
+PROPERTY_NAME
+string
+StructField("PROPERTY_NAME",string,nullable = True)
+['StructField("table1",string,nullable = True)', 'StructField("op_type",string,nullable = True)', 'StructField("op_ts",string,nullable = True)', 'StructField("current_ts",string,nullable = True)', 'StructField("pos",string,nullable = True)', 'StructField("PROPERTY_ID",int,nullable = True)', 'StructField("PROPERTY_NAME",string,nullable = True)']
+NETWORK_ID
+string
+StructField("NETWORK_ID",string,nullable = True)
+['StructField("table1",string,nullable = True)', 'StructField("op_type",string,nullable = True)', 'StructField("op_ts",string,nullable = True)', 'StructField("current_ts",string,nullable = True)', 'StructField("pos",string,nullable = True)', 'StructField("PROPERTY_ID",int,nullable = True)', 'StructField("PROPERTY_NAME",string,nullable = True)', 'StructField("NETWORK_ID",string,nullable = True)']
+PARENT_CHANNEL_ID
+string
+StructField("PARENT_CHANNEL_ID",string,nullable = True)
+['StructField("table1",string,nullable = True)', 'StructField("op_type",string,nullable = True)', 'StructField("op_ts",string,nullable = True)', 'StructField("current_ts",string,nullable = True)', 'StructField("pos",string,nullable = True)', 'StructField("PROPERTY_ID",int,nullable = True)', 'StructField("PROPERTY_NAME",string,nullable = True)', 'StructField("NETWORK_ID",string,nullable = True)', 'StructField("PARENT_CHANNEL_ID",string,nullable = True)']
+AUTOMATION_CODE
+string
+StructField("AUTOMATION_CODE",string,nullable = True)
+['StructField("table1",string,nullable = True)', 'StructField("op_type",string,nullable = True)', 'StructField("op_ts",string,nullable = True)', 'StructField("current_ts",string,nullable = True)', 'StructField("pos",string,nullable = True)', 'StructField("PROPERTY_ID",int,nullable = True)', 'StructField("PROPERTY_NAME",string,nullable = True)', 'StructField("NETWORK_ID",string,nullable = True)', 'StructField("PARENT_CHANNEL_ID",string,nullable = True)', 'StructField("AUTOMATION_CODE",string,nullable = True)']
+AUTOMATION_NAME
+string
+StructField("AUTOMATION_NAME",string,nullable = True)
+['StructField("table1",string,nullable = True)', 'StructField("op_type",string,nullable = True)', 'StructField("op_ts",string,nullable = True)', 'StructField("current_ts",string,nullable = True)', 'StructField("pos",string,nullable = True)', 'StructField("PROPERTY_ID",int,nullable = True)', 'StructField("PROPERTY_NAME",string,nullable = True)', 'StructField("NETWORK_ID",string,nullable = True)', 'StructField("PARENT_CHANNEL_ID",string,nullable = True)', 'StructField("AUTOMATION_CODE",string,nullable = True)', 'StructField("AUTOMATION_NAME",string,nullable = True)']
+CALL_SIGN_NAME
+string
+StructField("CALL_SIGN_NAME",string,nullable = True)
+['StructField("table1",string,nullable = True)', 'StructField("op_type",string,nullable = True)', 'StructField("op_ts",string,nullable = True)', 'StructField("current_ts",string,nullable = True)', 'StructField("pos",string,nullable = True)', 'StructField("PROPERTY_ID",int,nullable = True)', 'StructField("PROPERTY_NAME",string,nullable = True)', 'StructField("NETWORK_ID",string,nullable = True)', 'StructField("PARENT_CHANNEL_ID",string,nullable = True)', 'StructField("AUTOMATION_CODE",string,nullable = True)', 'StructField("AUTOMATION_NAME",string,nullable = True)', 'StructField("CALL_SIGN_NAME",string,nullable = True)']
+SALES_DAYPART_SET_ID
+string
+StructField("SALES_DAYPART_SET_ID",string,nullable = True)
+['StructField("table1",string,nullable = True)', 'StructField("op_type",string,nullable = True)', 'StructField("op_ts",string,nullable = True)', 'StructField("current_ts",string,nullable = True)', 'StructField("pos",string,nullable = True)', 'StructField("PROPERTY_ID",int,nullable = True)', 'StructField("PROPERTY_NAME",string,nullable = True)', 'StructField("NETWORK_ID",string,nullable = True)', 'StructField("PARENT_CHANNEL_ID",string,nullable = True)', 'StructField("AUTOMATION_CODE",string,nullable = True)', 'StructField("AUTOMATION_NAME",string,nullable = True)', 'StructField("CALL_SIGN_NAME",string,nullable = True)', 'StructField("SALES_DAYPART_SET_ID",string,nullable = True)']
+CREATE_DATE
+string
+StructField("CREATE_DATE",string,nullable = True)
+['StructField("table1",string,nullable = True)', 'StructField("op_type",string,nullable = True)', 'StructField("op_ts",string,nullable = True)', 'StructField("current_ts",string,nullable = True)', 'StructField("pos",string,nullable = True)', 'StructField("PROPERTY_ID",int,nullable = True)', 'StructField("PROPERTY_NAME",string,nullable = True)', 'StructField("NETWORK_ID",string,nullable = True)', 'StructField("PARENT_CHANNEL_ID",string,nullable = True)', 'StructField("AUTOMATION_CODE",string,nullable = True)', 'StructField("AUTOMATION_NAME",string,nullable = True)', 'StructField("CALL_SIGN_NAME",string,nullable = True)', 'StructField("SALES_DAYPART_SET_ID",string,nullable = True)', 'StructField("CREATE_DATE",string,nullable = True)']
+RATED_NETWORK
+string
+StructField("RATED_NETWORK",string,nullable = True)
+['StructField("table1",string,nullable = True)', 'StructField("op_type",string,nullable = True)', 'StructField("op_ts",string,nullable = True)', 'StructField("current_ts",string,nullable = True)', 'StructField("pos",string,nullable = True)', 'StructField("PROPERTY_ID",int,nullable = True)', 'StructField("PROPERTY_NAME",string,nullable = True)', 'StructField("NETWORK_ID",string,nullable = True)', 'StructField("PARENT_CHANNEL_ID",string,nullable = True)', 'StructField("AUTOMATION_CODE",string,nullable = True)', 'StructField("AUTOMATION_NAME",string,nullable = True)', 'StructField("CALL_SIGN_NAME",string,nullable = True)', 'StructField("SALES_DAYPART_SET_ID",string,nullable = True)', 'StructField("CREATE_DATE",string,nullable = True)', 'StructField("RATED_NETWORK",string,nullable = True)']
+2018-09-07 11:18:47 INFO  SparkContext:54 - Running Spark version 2.3.1
+2018-09-07 11:18:47 INFO  SparkContext:54 - Submitted application: SparkCassandraApp
+2018-09-07 11:18:47 INFO  SecurityManager:54 - Changing view acls to: KarthikeyanDurairaj
+2018-09-07 11:18:47 INFO  SecurityManager:54 - Changing modify acls to: KarthikeyanDurairaj
+2018-09-07 11:18:47 INFO  SecurityManager:54 - Changing view acls groups to: 
+2018-09-07 11:18:47 INFO  SecurityManager:54 - Changing modify acls groups to: 
+2018-09-07 11:18:47 INFO  SecurityManager:54 - SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(KarthikeyanDurairaj); groups with view permissions: Set(); users  with modify permissions: Set(KarthikeyanDurairaj); groups with modify permissions: Set()
+2018-09-07 11:18:48 INFO  Utils:54 - Successfully started service 'sparkDriver' on port 50725.
+2018-09-07 11:18:48 INFO  SparkEnv:54 - Registering MapOutputTracker
+2018-09-07 11:18:48 INFO  SparkEnv:54 - Registering BlockManagerMaster
+2018-09-07 11:18:48 INFO  BlockManagerMasterEndpoint:54 - Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+2018-09-07 11:18:48 INFO  BlockManagerMasterEndpoint:54 - BlockManagerMasterEndpoint up
+2018-09-07 11:18:48 INFO  DiskBlockManager:54 - Created local directory at /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/blockmgr-cd05601f-533b-49c7-82a6-7830820de525
+2018-09-07 11:18:48 INFO  MemoryStore:54 - MemoryStore started with capacity 366.3 MB
+2018-09-07 11:18:48 INFO  SparkEnv:54 - Registering OutputCommitCoordinator
+2018-09-07 11:18:48 INFO  log:192 - Logging initialized @12354ms
+2018-09-07 11:18:48 INFO  Server:346 - jetty-9.3.z-SNAPSHOT
+2018-09-07 11:18:48 INFO  Server:414 - Started @12482ms
+2018-09-07 11:18:48 WARN  Utils:66 - Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+2018-09-07 11:18:48 INFO  AbstractConnector:278 - Started ServerConnector@58be569d{HTTP/1.1,[http/1.1]}{0.0.0.0:4041}
+2018-09-07 11:18:48 INFO  Utils:54 - Successfully started service 'SparkUI' on port 4041.
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@12a3a42f{/jobs,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@721c11cc{/jobs/json,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@3f8d7e04{/jobs/job,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@27e0e222{/jobs/job/json,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@35e01563{/stages,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@61c93085{/stages/json,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@52b77194{/stages/stage,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@6ffd6d4e{/stages/stage/json,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@62f9af4{/stages/pool,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@47c854cb{/stages/pool/json,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4157f532{/storage,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@45c4674b{/storage/json,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@3f46bd3d{/storage/rdd,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@3aadc812{/storage/rdd/json,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@442d5410{/environment,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@22359de1{/environment/json,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@281073cf{/executors,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@7ca9c387{/executors/json,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@520a95d6{/executors/threadDump,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5cded0e3{/executors/threadDump/json,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@77fb5ebc{/static,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@7ccdccd6{/,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5c980b{/api,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@73c0ebda{/jobs/job/kill,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@2d73adf0{/stages/stage/kill,null,AVAILABLE,@Spark}
+2018-09-07 11:18:48 INFO  SparkUI:54 - Bound SparkUI to 0.0.0.0, and started at http://192.168.0.27:4041
+2018-09-07 11:18:48 INFO  SparkContext:54 - Added JAR file:///Users/KarthikeyanDurairaj/jarfiles/spark-streaming-kafka-0-8-assembly_2.11-2.3.1.jar at spark://192.168.0.27:50725/jars/spark-streaming-kafka-0-8-assembly_2.11-2.3.1.jar with timestamp 1536333528739
+2018-09-07 11:18:48 INFO  SparkContext:54 - Added JAR file:///Users/KarthikeyanDurairaj/.ivy2/jars/datastax_spark-cassandra-connector-2.3.0-s_2.11.jar at spark://192.168.0.27:50725/jars/datastax_spark-cassandra-connector-2.3.0-s_2.11.jar with timestamp 1536333528741
+2018-09-07 11:18:48 INFO  SparkContext:54 - Added JAR file:///Users/KarthikeyanDurairaj/.ivy2/jars/org.joda_joda-convert-1.2.jar at spark://192.168.0.27:50725/jars/org.joda_joda-convert-1.2.jar with timestamp 1536333528741
+2018-09-07 11:18:48 INFO  SparkContext:54 - Added JAR file:///Users/KarthikeyanDurairaj/.ivy2/jars/com.twitter_jsr166e-1.1.0.jar at spark://192.168.0.27:50725/jars/com.twitter_jsr166e-1.1.0.jar with timestamp 1536333528741
+2018-09-07 11:18:48 INFO  SparkContext:54 - Added JAR file:///Users/KarthikeyanDurairaj/.ivy2/jars/joda-time_joda-time-2.3.jar at spark://192.168.0.27:50725/jars/joda-time_joda-time-2.3.jar with timestamp 1536333528741
+2018-09-07 11:18:48 INFO  SparkContext:54 - Added JAR file:///Users/KarthikeyanDurairaj/.ivy2/jars/commons-beanutils_commons-beanutils-1.9.3.jar at spark://192.168.0.27:50725/jars/commons-beanutils_commons-beanutils-1.9.3.jar with timestamp 1536333528741
+2018-09-07 11:18:48 INFO  SparkContext:54 - Added JAR file:///Users/KarthikeyanDurairaj/.ivy2/jars/io.netty_netty-all-4.0.33.Final.jar at spark://192.168.0.27:50725/jars/io.netty_netty-all-4.0.33.Final.jar with timestamp 1536333528742
+2018-09-07 11:18:48 INFO  SparkContext:54 - Added JAR file:///Users/KarthikeyanDurairaj/.ivy2/jars/org.scala-lang_scala-reflect-2.11.8.jar at spark://192.168.0.27:50725/jars/org.scala-lang_scala-reflect-2.11.8.jar with timestamp 1536333528742
+2018-09-07 11:18:48 INFO  SparkContext:54 - Added JAR file:///Users/KarthikeyanDurairaj/.ivy2/jars/commons-collections_commons-collections-3.2.2.jar at spark://192.168.0.27:50725/jars/commons-collections_commons-collections-3.2.2.jar with timestamp 1536333528742
+2018-09-07 11:18:48 INFO  SparkContext:54 - Added file file:/Users/KarthikeyanDurairaj/compacttopic/devclusterlocal/tbl_ms_property_compacttopic.py at file:/Users/KarthikeyanDurairaj/compacttopic/devclusterlocal/tbl_ms_property_compacttopic.py with timestamp 1536333528776
+2018-09-07 11:18:48 INFO  Utils:54 - Copying /Users/KarthikeyanDurairaj/compacttopic/devclusterlocal/tbl_ms_property_compacttopic.py to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/tbl_ms_property_compacttopic.py
+2018-09-07 11:18:48 INFO  SparkContext:54 - Added file file:///Users/KarthikeyanDurairaj/.ivy2/jars/datastax_spark-cassandra-connector-2.3.0-s_2.11.jar at file:///Users/KarthikeyanDurairaj/.ivy2/jars/datastax_spark-cassandra-connector-2.3.0-s_2.11.jar with timestamp 1536333528797
+2018-09-07 11:18:48 INFO  Utils:54 - Copying /Users/KarthikeyanDurairaj/.ivy2/jars/datastax_spark-cassandra-connector-2.3.0-s_2.11.jar to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/datastax_spark-cassandra-connector-2.3.0-s_2.11.jar
+2018-09-07 11:18:48 INFO  SparkContext:54 - Added file file:///Users/KarthikeyanDurairaj/.ivy2/jars/org.joda_joda-convert-1.2.jar at file:///Users/KarthikeyanDurairaj/.ivy2/jars/org.joda_joda-convert-1.2.jar with timestamp 1536333528831
+2018-09-07 11:18:48 INFO  Utils:54 - Copying /Users/KarthikeyanDurairaj/.ivy2/jars/org.joda_joda-convert-1.2.jar to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/org.joda_joda-convert-1.2.jar
+2018-09-07 11:18:48 INFO  SparkContext:54 - Added file file:///Users/KarthikeyanDurairaj/.ivy2/jars/com.twitter_jsr166e-1.1.0.jar at file:///Users/KarthikeyanDurairaj/.ivy2/jars/com.twitter_jsr166e-1.1.0.jar with timestamp 1536333528841
+2018-09-07 11:18:48 INFO  Utils:54 - Copying /Users/KarthikeyanDurairaj/.ivy2/jars/com.twitter_jsr166e-1.1.0.jar to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/com.twitter_jsr166e-1.1.0.jar
+2018-09-07 11:18:48 INFO  SparkContext:54 - Added file file:///Users/KarthikeyanDurairaj/.ivy2/jars/joda-time_joda-time-2.3.jar at file:///Users/KarthikeyanDurairaj/.ivy2/jars/joda-time_joda-time-2.3.jar with timestamp 1536333528851
+2018-09-07 11:18:48 INFO  Utils:54 - Copying /Users/KarthikeyanDurairaj/.ivy2/jars/joda-time_joda-time-2.3.jar to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/joda-time_joda-time-2.3.jar
+2018-09-07 11:18:48 INFO  SparkContext:54 - Added file file:///Users/KarthikeyanDurairaj/.ivy2/jars/commons-beanutils_commons-beanutils-1.9.3.jar at file:///Users/KarthikeyanDurairaj/.ivy2/jars/commons-beanutils_commons-beanutils-1.9.3.jar with timestamp 1536333528860
+2018-09-07 11:18:48 INFO  Utils:54 - Copying /Users/KarthikeyanDurairaj/.ivy2/jars/commons-beanutils_commons-beanutils-1.9.3.jar to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/commons-beanutils_commons-beanutils-1.9.3.jar
+2018-09-07 11:18:48 INFO  SparkContext:54 - Added file file:///Users/KarthikeyanDurairaj/.ivy2/jars/io.netty_netty-all-4.0.33.Final.jar at file:///Users/KarthikeyanDurairaj/.ivy2/jars/io.netty_netty-all-4.0.33.Final.jar with timestamp 1536333528867
+2018-09-07 11:18:48 INFO  Utils:54 - Copying /Users/KarthikeyanDurairaj/.ivy2/jars/io.netty_netty-all-4.0.33.Final.jar to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/io.netty_netty-all-4.0.33.Final.jar
+2018-09-07 11:18:48 INFO  SparkContext:54 - Added file file:///Users/KarthikeyanDurairaj/.ivy2/jars/org.scala-lang_scala-reflect-2.11.8.jar at file:///Users/KarthikeyanDurairaj/.ivy2/jars/org.scala-lang_scala-reflect-2.11.8.jar with timestamp 1536333528883
+2018-09-07 11:18:48 INFO  Utils:54 - Copying /Users/KarthikeyanDurairaj/.ivy2/jars/org.scala-lang_scala-reflect-2.11.8.jar to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/org.scala-lang_scala-reflect-2.11.8.jar
+2018-09-07 11:18:48 INFO  SparkContext:54 - Added file file:///Users/KarthikeyanDurairaj/.ivy2/jars/commons-collections_commons-collections-3.2.2.jar at file:///Users/KarthikeyanDurairaj/.ivy2/jars/commons-collections_commons-collections-3.2.2.jar with timestamp 1536333528907
+2018-09-07 11:18:48 INFO  Utils:54 - Copying /Users/KarthikeyanDurairaj/.ivy2/jars/commons-collections_commons-collections-3.2.2.jar to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/commons-collections_commons-collections-3.2.2.jar
+2018-09-07 11:18:49 INFO  Executor:54 - Starting executor ID driver on host localhost
+2018-09-07 11:18:49 INFO  Utils:54 - Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 50726.
+2018-09-07 11:18:49 INFO  NettyBlockTransferService:54 - Server created on 192.168.0.27:50726
+2018-09-07 11:18:49 INFO  BlockManager:54 - Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+2018-09-07 11:18:49 INFO  BlockManagerMaster:54 - Registering BlockManager BlockManagerId(driver, 192.168.0.27, 50726, None)
+2018-09-07 11:18:49 INFO  BlockManagerMasterEndpoint:54 - Registering block manager 192.168.0.27:50726 with 366.3 MB RAM, BlockManagerId(driver, 192.168.0.27, 50726, None)
+2018-09-07 11:18:49 INFO  BlockManagerMaster:54 - Registered BlockManager BlockManagerId(driver, 192.168.0.27, 50726, None)
+2018-09-07 11:18:49 INFO  BlockManager:54 - Initialized BlockManager: BlockManagerId(driver, 192.168.0.27, 50726, None)
+2018-09-07 11:18:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@57ad659{/metrics/json,null,AVAILABLE,@Spark}
+2018-09-07 11:18:49 INFO  SharedState:54 - Setting hive.metastore.warehouse.dir ('null') to the value of spark.sql.warehouse.dir ('file:/Users/KarthikeyanDurairaj/compacttopic/devclusterlocal/spark-warehouse/').
+2018-09-07 11:18:49 INFO  SharedState:54 - Warehouse path is 'file:/Users/KarthikeyanDurairaj/compacttopic/devclusterlocal/spark-warehouse/'.
+2018-09-07 11:18:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@48a9d60e{/SQL,null,AVAILABLE,@Spark}
+2018-09-07 11:18:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@9a995be{/SQL/json,null,AVAILABLE,@Spark}
+2018-09-07 11:18:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@14b7da9a{/SQL/execution,null,AVAILABLE,@Spark}
+2018-09-07 11:18:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@789ec5a6{/SQL/execution/json,null,AVAILABLE,@Spark}
+2018-09-07 11:18:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@ef231af{/static/sql,null,AVAILABLE,@Spark}
+2018-09-07 11:18:50 INFO  StateStoreCoordinatorRef:54 - Registered StateStoreCoordinator endpoint
+2018-09-07 11:18:50 INFO  VerifiableProperties:68 - Verifying properties
+2018-09-07 11:18:50 INFO  VerifiableProperties:68 - Property group.id is overridden to 
+2018-09-07 11:18:50 INFO  VerifiableProperties:68 - Property zookeeper.connect is overridden to 
+2018-09-07 11:18:50 INFO  DirectKafkaInputDStream:54 - Slide time = 10000 ms
+2018-09-07 11:18:50 INFO  DirectKafkaInputDStream:54 - Storage level = Serialized 1x Replicated
+2018-09-07 11:18:50 INFO  DirectKafkaInputDStream:54 - Checkpoint interval = null
+2018-09-07 11:18:50 INFO  DirectKafkaInputDStream:54 - Remember interval = 10000 ms
+2018-09-07 11:18:50 INFO  DirectKafkaInputDStream:54 - Initialized and validated org.apache.spark.streaming.kafka.DirectKafkaInputDStream@2c5e0e23
+2018-09-07 11:18:50 INFO  PythonTransformedDStream:54 - Slide time = 10000 ms
+2018-09-07 11:18:50 INFO  PythonTransformedDStream:54 - Storage level = Serialized 1x Replicated
+2018-09-07 11:18:50 INFO  PythonTransformedDStream:54 - Checkpoint interval = null
+2018-09-07 11:18:50 INFO  PythonTransformedDStream:54 - Remember interval = 10000 ms
+2018-09-07 11:18:50 INFO  PythonTransformedDStream:54 - Initialized and validated org.apache.spark.streaming.api.python.PythonTransformedDStream@32fc8887
+2018-09-07 11:18:50 INFO  ForEachDStream:54 - Slide time = 10000 ms
+2018-09-07 11:18:50 INFO  ForEachDStream:54 - Storage level = Serialized 1x Replicated
+2018-09-07 11:18:50 INFO  ForEachDStream:54 - Checkpoint interval = null
+2018-09-07 11:18:50 INFO  ForEachDStream:54 - Remember interval = 10000 ms
+2018-09-07 11:18:50 INFO  ForEachDStream:54 - Initialized and validated org.apache.spark.streaming.dstream.ForEachDStream@5f633fb2
+2018-09-07 11:18:50 INFO  RecurringTimer:54 - Started timer for JobGenerator at time 1536333540000
+2018-09-07 11:18:50 INFO  JobGenerator:54 - Started JobGenerator at 1536333540000 ms
+2018-09-07 11:18:50 INFO  JobScheduler:54 - Started JobScheduler
+2018-09-07 11:18:50 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@319e293c{/streaming,null,AVAILABLE,@Spark}
+2018-09-07 11:18:50 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@53314ef9{/streaming/json,null,AVAILABLE,@Spark}
+2018-09-07 11:18:50 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5b593cdb{/streaming/batch,null,AVAILABLE,@Spark}
+2018-09-07 11:18:50 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@2623ab61{/streaming/batch/json,null,AVAILABLE,@Spark}
+2018-09-07 11:18:50 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4cd43ef9{/static/streaming,null,AVAILABLE,@Spark}
+2018-09-07 11:18:50 INFO  StreamingContext:54 - StreamingContext started
+2018-09-07 11:19:00 INFO  VerifiableProperties:68 - Verifying properties
+2018-09-07 11:19:00 INFO  VerifiableProperties:68 - Property group.id is overridden to 
+2018-09-07 11:19:00 INFO  VerifiableProperties:68 - Property zookeeper.connect is overridden to 
+2018-09-07 11:19:00 INFO  JobScheduler:54 - Added jobs for time 1536333540000 ms
+2018-09-07 11:19:00 INFO  JobScheduler:54 - Starting job streaming job 1536333540000 ms.0 from job set of time 1536333540000 ms
+2018-09-07 11:19:00 INFO  SparkContext:54 - Starting job: call at /Users/KarthikeyanDurairaj/Desktop/Sparkshell/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py:2381
+2018-09-07 11:19:00 INFO  DAGScheduler:54 - Got job 0 (call at /Users/KarthikeyanDurairaj/Desktop/Sparkshell/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py:2381) with 1 output partitions
+2018-09-07 11:19:00 INFO  DAGScheduler:54 - Final stage: ResultStage 0 (call at /Users/KarthikeyanDurairaj/Desktop/Sparkshell/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py:2381)
+2018-09-07 11:19:00 INFO  DAGScheduler:54 - Parents of final stage: List()
+2018-09-07 11:19:00 INFO  DAGScheduler:54 - Missing parents: List()
+2018-09-07 11:19:00 INFO  DAGScheduler:54 - Submitting ResultStage 0 (PythonRDD[1] at RDD at PythonRDD.scala:49), which has no missing parents
+2018-09-07 11:19:00 INFO  MemoryStore:54 - Block broadcast_0 stored as values in memory (estimated size 7.0 KB, free 366.3 MB)
+2018-09-07 11:19:00 INFO  MemoryStore:54 - Block broadcast_0_piece0 stored as bytes in memory (estimated size 4.5 KB, free 366.3 MB)
+2018-09-07 11:19:00 INFO  BlockManagerInfo:54 - Added broadcast_0_piece0 in memory on 192.168.0.27:50726 (size: 4.5 KB, free: 366.3 MB)
+2018-09-07 11:19:00 INFO  SparkContext:54 - Created broadcast 0 from broadcast at DAGScheduler.scala:1039
+2018-09-07 11:19:00 INFO  DAGScheduler:54 - Submitting 1 missing tasks from ResultStage 0 (PythonRDD[1] at RDD at PythonRDD.scala:49) (first 15 tasks are for partitions Vector(0))
+2018-09-07 11:19:00 INFO  TaskSchedulerImpl:54 - Adding task set 0.0 with 1 tasks
+2018-09-07 11:19:00 INFO  TaskSetManager:54 - Starting task 0.0 in stage 0.0 (TID 0, localhost, executor driver, partition 0, ANY, 7785 bytes)
+2018-09-07 11:19:00 INFO  Executor:54 - Running task 0.0 in stage 0.0 (TID 0)
+2018-09-07 11:19:00 INFO  Executor:54 - Fetching file:///Users/KarthikeyanDurairaj/.ivy2/jars/joda-time_joda-time-2.3.jar with timestamp 1536333528851
+2018-09-07 11:19:00 INFO  Utils:54 - /Users/KarthikeyanDurairaj/.ivy2/jars/joda-time_joda-time-2.3.jar has been previously copied to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/joda-time_joda-time-2.3.jar
+2018-09-07 11:19:00 INFO  Executor:54 - Fetching file:/Users/KarthikeyanDurairaj/compacttopic/devclusterlocal/tbl_ms_property_compacttopic.py with timestamp 1536333528776
+2018-09-07 11:19:00 INFO  Utils:54 - /Users/KarthikeyanDurairaj/compacttopic/devclusterlocal/tbl_ms_property_compacttopic.py has been previously copied to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/tbl_ms_property_compacttopic.py
+2018-09-07 11:19:00 INFO  Executor:54 - Fetching file:///Users/KarthikeyanDurairaj/.ivy2/jars/commons-beanutils_commons-beanutils-1.9.3.jar with timestamp 1536333528860
+2018-09-07 11:19:00 INFO  Utils:54 - /Users/KarthikeyanDurairaj/.ivy2/jars/commons-beanutils_commons-beanutils-1.9.3.jar has been previously copied to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/commons-beanutils_commons-beanutils-1.9.3.jar
+2018-09-07 11:19:00 INFO  Executor:54 - Fetching file:///Users/KarthikeyanDurairaj/.ivy2/jars/commons-collections_commons-collections-3.2.2.jar with timestamp 1536333528907
+2018-09-07 11:19:00 INFO  Utils:54 - /Users/KarthikeyanDurairaj/.ivy2/jars/commons-collections_commons-collections-3.2.2.jar has been previously copied to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/commons-collections_commons-collections-3.2.2.jar
+2018-09-07 11:19:00 INFO  Executor:54 - Fetching file:///Users/KarthikeyanDurairaj/.ivy2/jars/com.twitter_jsr166e-1.1.0.jar with timestamp 1536333528841
+2018-09-07 11:19:00 INFO  Utils:54 - /Users/KarthikeyanDurairaj/.ivy2/jars/com.twitter_jsr166e-1.1.0.jar has been previously copied to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/com.twitter_jsr166e-1.1.0.jar
+2018-09-07 11:19:00 INFO  Executor:54 - Fetching file:///Users/KarthikeyanDurairaj/.ivy2/jars/org.scala-lang_scala-reflect-2.11.8.jar with timestamp 1536333528883
+2018-09-07 11:19:00 INFO  Utils:54 - /Users/KarthikeyanDurairaj/.ivy2/jars/org.scala-lang_scala-reflect-2.11.8.jar has been previously copied to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/org.scala-lang_scala-reflect-2.11.8.jar
+2018-09-07 11:19:00 INFO  Executor:54 - Fetching file:///Users/KarthikeyanDurairaj/.ivy2/jars/io.netty_netty-all-4.0.33.Final.jar with timestamp 1536333528867
+2018-09-07 11:19:00 INFO  Utils:54 - /Users/KarthikeyanDurairaj/.ivy2/jars/io.netty_netty-all-4.0.33.Final.jar has been previously copied to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/io.netty_netty-all-4.0.33.Final.jar
+2018-09-07 11:19:00 INFO  Executor:54 - Fetching file:///Users/KarthikeyanDurairaj/.ivy2/jars/datastax_spark-cassandra-connector-2.3.0-s_2.11.jar with timestamp 1536333528797
+2018-09-07 11:19:00 INFO  Utils:54 - /Users/KarthikeyanDurairaj/.ivy2/jars/datastax_spark-cassandra-connector-2.3.0-s_2.11.jar has been previously copied to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/datastax_spark-cassandra-connector-2.3.0-s_2.11.jar
+2018-09-07 11:19:00 INFO  Executor:54 - Fetching file:///Users/KarthikeyanDurairaj/.ivy2/jars/org.joda_joda-convert-1.2.jar with timestamp 1536333528831
+2018-09-07 11:19:00 INFO  Utils:54 - /Users/KarthikeyanDurairaj/.ivy2/jars/org.joda_joda-convert-1.2.jar has been previously copied to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/org.joda_joda-convert-1.2.jar
+2018-09-07 11:19:00 INFO  Executor:54 - Fetching spark://192.168.0.27:50725/jars/io.netty_netty-all-4.0.33.Final.jar with timestamp 1536333528742
+2018-09-07 11:19:00 INFO  TransportClientFactory:267 - Successfully created connection to /192.168.0.27:50725 after 42 ms (0 ms spent in bootstraps)
+2018-09-07 11:19:00 INFO  Utils:54 - Fetching spark://192.168.0.27:50725/jars/io.netty_netty-all-4.0.33.Final.jar to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/fetchFileTemp950392923776390781.tmp
+2018-09-07 11:19:00 INFO  Utils:54 - /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/fetchFileTemp950392923776390781.tmp has been previously copied to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/io.netty_netty-all-4.0.33.Final.jar
+2018-09-07 11:19:00 INFO  Executor:54 - Adding file:/private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/io.netty_netty-all-4.0.33.Final.jar to class loader
+2018-09-07 11:19:00 INFO  Executor:54 - Fetching spark://192.168.0.27:50725/jars/org.scala-lang_scala-reflect-2.11.8.jar with timestamp 1536333528742
+2018-09-07 11:19:00 INFO  Utils:54 - Fetching spark://192.168.0.27:50725/jars/org.scala-lang_scala-reflect-2.11.8.jar to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/fetchFileTemp3032145952427298942.tmp
+2018-09-07 11:19:00 INFO  Utils:54 - /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/fetchFileTemp3032145952427298942.tmp has been previously copied to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/org.scala-lang_scala-reflect-2.11.8.jar
+2018-09-07 11:19:00 INFO  Executor:54 - Adding file:/private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/org.scala-lang_scala-reflect-2.11.8.jar to class loader
+2018-09-07 11:19:00 INFO  Executor:54 - Fetching spark://192.168.0.27:50725/jars/com.twitter_jsr166e-1.1.0.jar with timestamp 1536333528741
+2018-09-07 11:19:00 INFO  Utils:54 - Fetching spark://192.168.0.27:50725/jars/com.twitter_jsr166e-1.1.0.jar to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/fetchFileTemp6816614255937773605.tmp
+2018-09-07 11:19:00 INFO  Utils:54 - /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/fetchFileTemp6816614255937773605.tmp has been previously copied to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/com.twitter_jsr166e-1.1.0.jar
+2018-09-07 11:19:00 INFO  Executor:54 - Adding file:/private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/com.twitter_jsr166e-1.1.0.jar to class loader
+2018-09-07 11:19:00 INFO  Executor:54 - Fetching spark://192.168.0.27:50725/jars/commons-beanutils_commons-beanutils-1.9.3.jar with timestamp 1536333528741
+2018-09-07 11:19:00 INFO  Utils:54 - Fetching spark://192.168.0.27:50725/jars/commons-beanutils_commons-beanutils-1.9.3.jar to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/fetchFileTemp315121088104582298.tmp
+2018-09-07 11:19:00 INFO  Utils:54 - /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/fetchFileTemp315121088104582298.tmp has been previously copied to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/commons-beanutils_commons-beanutils-1.9.3.jar
+2018-09-07 11:19:00 INFO  Executor:54 - Adding file:/private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/commons-beanutils_commons-beanutils-1.9.3.jar to class loader
+2018-09-07 11:19:00 INFO  Executor:54 - Fetching spark://192.168.0.27:50725/jars/datastax_spark-cassandra-connector-2.3.0-s_2.11.jar with timestamp 1536333528741
+2018-09-07 11:19:00 INFO  Utils:54 - Fetching spark://192.168.0.27:50725/jars/datastax_spark-cassandra-connector-2.3.0-s_2.11.jar to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/fetchFileTemp375710431737540639.tmp
+2018-09-07 11:19:00 INFO  Utils:54 - /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/fetchFileTemp375710431737540639.tmp has been previously copied to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/datastax_spark-cassandra-connector-2.3.0-s_2.11.jar
+2018-09-07 11:19:00 INFO  Executor:54 - Adding file:/private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/datastax_spark-cassandra-connector-2.3.0-s_2.11.jar to class loader
+2018-09-07 11:19:00 INFO  Executor:54 - Fetching spark://192.168.0.27:50725/jars/joda-time_joda-time-2.3.jar with timestamp 1536333528741
+2018-09-07 11:19:00 INFO  Utils:54 - Fetching spark://192.168.0.27:50725/jars/joda-time_joda-time-2.3.jar to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/fetchFileTemp3431934152884628134.tmp
+2018-09-07 11:19:00 INFO  Utils:54 - /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/fetchFileTemp3431934152884628134.tmp has been previously copied to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/joda-time_joda-time-2.3.jar
+2018-09-07 11:19:00 INFO  Executor:54 - Adding file:/private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/joda-time_joda-time-2.3.jar to class loader
+2018-09-07 11:19:00 INFO  Executor:54 - Fetching spark://192.168.0.27:50725/jars/commons-collections_commons-collections-3.2.2.jar with timestamp 1536333528742
+2018-09-07 11:19:00 INFO  Utils:54 - Fetching spark://192.168.0.27:50725/jars/commons-collections_commons-collections-3.2.2.jar to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/fetchFileTemp4932814610796081583.tmp
+2018-09-07 11:19:00 INFO  Utils:54 - /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/fetchFileTemp4932814610796081583.tmp has been previously copied to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/commons-collections_commons-collections-3.2.2.jar
+2018-09-07 11:19:01 INFO  Executor:54 - Adding file:/private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/commons-collections_commons-collections-3.2.2.jar to class loader
+2018-09-07 11:19:01 INFO  Executor:54 - Fetching spark://192.168.0.27:50725/jars/org.joda_joda-convert-1.2.jar with timestamp 1536333528741
+2018-09-07 11:19:01 INFO  Utils:54 - Fetching spark://192.168.0.27:50725/jars/org.joda_joda-convert-1.2.jar to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/fetchFileTemp1745116318729348587.tmp
+2018-09-07 11:19:01 INFO  Utils:54 - /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/fetchFileTemp1745116318729348587.tmp has been previously copied to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/org.joda_joda-convert-1.2.jar
+2018-09-07 11:19:01 INFO  Executor:54 - Adding file:/private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/org.joda_joda-convert-1.2.jar to class loader
+2018-09-07 11:19:01 INFO  Executor:54 - Fetching spark://192.168.0.27:50725/jars/spark-streaming-kafka-0-8-assembly_2.11-2.3.1.jar with timestamp 1536333528739
+2018-09-07 11:19:01 INFO  Utils:54 - Fetching spark://192.168.0.27:50725/jars/spark-streaming-kafka-0-8-assembly_2.11-2.3.1.jar to /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/fetchFileTemp1858318628726311827.tmp
+2018-09-07 11:19:01 INFO  Executor:54 - Adding file:/private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/userFiles-7e32c314-445c-4c00-94d4-a8e8666c5e21/spark-streaming-kafka-0-8-assembly_2.11-2.3.1.jar to class loader
+2018-09-07 11:19:01 INFO  KafkaRDD:54 - Beginning offset 12 is the same as ending offset skipping NBC_APPS.TBL_MS_PROPERTY 0
+2018-09-07 11:19:02 INFO  PythonRunner:54 - Times: total = 983, boot = 624, init = 359, finish = 0
+2018-09-07 11:19:02 INFO  Executor:54 - Finished task 0.0 in stage 0.0 (TID 0). 1278 bytes result sent to driver
+2018-09-07 11:19:02 INFO  TaskSetManager:54 - Finished task 0.0 in stage 0.0 (TID 0) in 1709 ms on localhost (executor driver) (1/1)
+2018-09-07 11:19:02 INFO  TaskSchedulerImpl:54 - Removed TaskSet 0.0, whose tasks have all completed, from pool 
+2018-09-07 11:19:02 INFO  DAGScheduler:54 - ResultStage 0 (call at /Users/KarthikeyanDurairaj/Desktop/Sparkshell/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py:2381) finished in 1.914 s
+2018-09-07 11:19:02 INFO  DAGScheduler:54 - Job 0 finished: call at /Users/KarthikeyanDurairaj/Desktop/Sparkshell/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py:2381, took 1.992220 s
+2018-09-07 11:19:02 INFO  JobScheduler:54 - Finished job streaming job 1536333540000 ms.0 from job set of time 1536333540000 ms
+2018-09-07 11:19:02 INFO  JobScheduler:54 - Total delay: 2.258 s for time 1536333540000 ms (execution: 2.101 s)
+2018-09-07 11:19:02 INFO  ReceivedBlockTracker:54 - Deleting batches: 
+2018-09-07 11:19:02 INFO  InputInfoTracker:54 - remove old batch metadata: 
+2018-09-07 11:19:10 INFO  JobScheduler:54 - Added jobs for time 1536333550000 ms
+2018-09-07 11:19:10 INFO  JobScheduler:54 - Starting job streaming job 1536333550000 ms.0 from job set of time 1536333550000 ms
+2018-09-07 11:19:10 INFO  SparkContext:54 - Starting job: call at /Users/KarthikeyanDurairaj/Desktop/Sparkshell/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py:2381
+2018-09-07 11:19:10 INFO  DAGScheduler:54 - Got job 1 (call at /Users/KarthikeyanDurairaj/Desktop/Sparkshell/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py:2381) with 1 output partitions
+2018-09-07 11:19:10 INFO  DAGScheduler:54 - Final stage: ResultStage 1 (call at /Users/KarthikeyanDurairaj/Desktop/Sparkshell/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py:2381)
+2018-09-07 11:19:10 INFO  DAGScheduler:54 - Parents of final stage: List()
+2018-09-07 11:19:10 INFO  DAGScheduler:54 - Missing parents: List()
+2018-09-07 11:19:10 INFO  DAGScheduler:54 - Submitting ResultStage 1 (PythonRDD[3] at RDD at PythonRDD.scala:49), which has no missing parents
+2018-09-07 11:19:10 INFO  MemoryStore:54 - Block broadcast_1 stored as values in memory (estimated size 7.0 KB, free 366.3 MB)
+2018-09-07 11:19:10 INFO  MemoryStore:54 - Block broadcast_1_piece0 stored as bytes in memory (estimated size 4.5 KB, free 366.3 MB)
+2018-09-07 11:19:10 INFO  BlockManagerInfo:54 - Added broadcast_1_piece0 in memory on 192.168.0.27:50726 (size: 4.5 KB, free: 366.3 MB)
+2018-09-07 11:19:10 INFO  SparkContext:54 - Created broadcast 1 from broadcast at DAGScheduler.scala:1039
+2018-09-07 11:19:10 INFO  DAGScheduler:54 - Submitting 1 missing tasks from ResultStage 1 (PythonRDD[3] at RDD at PythonRDD.scala:49) (first 15 tasks are for partitions Vector(0))
+2018-09-07 11:19:10 INFO  TaskSchedulerImpl:54 - Adding task set 1.0 with 1 tasks
+2018-09-07 11:19:10 INFO  TaskSetManager:54 - Starting task 0.0 in stage 1.0 (TID 1, localhost, executor driver, partition 0, ANY, 7785 bytes)
+2018-09-07 11:19:10 INFO  Executor:54 - Running task 0.0 in stage 1.0 (TID 1)
+2018-09-07 11:19:10 INFO  KafkaRDD:54 - Beginning offset 12 is the same as ending offset skipping NBC_APPS.TBL_MS_PROPERTY 0
+2018-09-07 11:19:10 INFO  PythonRunner:54 - Times: total = 2, boot = -7897, init = 7899, finish = 0
+2018-09-07 11:19:10 INFO  Executor:54 - Finished task 0.0 in stage 1.0 (TID 1). 1235 bytes result sent to driver
+2018-09-07 11:19:10 INFO  TaskSetManager:54 - Finished task 0.0 in stage 1.0 (TID 1) in 15 ms on localhost (executor driver) (1/1)
+2018-09-07 11:19:10 INFO  TaskSchedulerImpl:54 - Removed TaskSet 1.0, whose tasks have all completed, from pool 
+2018-09-07 11:19:10 INFO  DAGScheduler:54 - ResultStage 1 (call at /Users/KarthikeyanDurairaj/Desktop/Sparkshell/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py:2381) finished in 0.028 s
+2018-09-07 11:19:10 INFO  DAGScheduler:54 - Job 1 finished: call at /Users/KarthikeyanDurairaj/Desktop/Sparkshell/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py:2381, took 0.033190 s
+2018-09-07 11:19:10 INFO  JobScheduler:54 - Finished job streaming job 1536333550000 ms.0 from job set of time 1536333550000 ms
+2018-09-07 11:19:10 INFO  JobScheduler:54 - Total delay: 0.095 s for time 1536333550000 ms (execution: 0.064 s)
+2018-09-07 11:19:10 INFO  PythonRDD:54 - Removing RDD 1 from persistence list
+2018-09-07 11:19:10 INFO  BlockManager:54 - Removing RDD 1
+2018-09-07 11:19:10 INFO  KafkaRDD:54 - Removing RDD 0 from persistence list
+2018-09-07 11:19:10 INFO  BlockManager:54 - Removing RDD 0
+2018-09-07 11:19:10 INFO  ReceivedBlockTracker:54 - Deleting batches: 
+2018-09-07 11:19:10 INFO  InputInfoTracker:54 - remove old batch metadata: 
+2018-09-07 11:19:20 INFO  JobScheduler:54 - Added jobs for time 1536333560000 ms
+2018-09-07 11:19:20 INFO  JobScheduler:54 - Starting job streaming job 1536333560000 ms.0 from job set of time 1536333560000 ms
+2018-09-07 11:19:20 INFO  SparkContext:54 - Starting job: call at /Users/KarthikeyanDurairaj/Desktop/Sparkshell/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py:2381
+2018-09-07 11:19:20 INFO  DAGScheduler:54 - Got job 2 (call at /Users/KarthikeyanDurairaj/Desktop/Sparkshell/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py:2381) with 1 output partitions
+2018-09-07 11:19:20 INFO  DAGScheduler:54 - Final stage: ResultStage 2 (call at /Users/KarthikeyanDurairaj/Desktop/Sparkshell/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py:2381)
+2018-09-07 11:19:20 INFO  DAGScheduler:54 - Parents of final stage: List()
+2018-09-07 11:19:20 INFO  DAGScheduler:54 - Missing parents: List()
+2018-09-07 11:19:20 INFO  DAGScheduler:54 - Submitting ResultStage 2 (PythonRDD[5] at RDD at PythonRDD.scala:49), which has no missing parents
+2018-09-07 11:19:20 INFO  MemoryStore:54 - Block broadcast_2 stored as values in memory (estimated size 7.0 KB, free 366.3 MB)
+2018-09-07 11:19:20 INFO  MemoryStore:54 - Block broadcast_2_piece0 stored as bytes in memory (estimated size 4.5 KB, free 366.3 MB)
+2018-09-07 11:19:20 INFO  BlockManagerInfo:54 - Added broadcast_2_piece0 in memory on 192.168.0.27:50726 (size: 4.5 KB, free: 366.3 MB)
+2018-09-07 11:19:20 INFO  SparkContext:54 - Created broadcast 2 from broadcast at DAGScheduler.scala:1039
+2018-09-07 11:19:20 INFO  DAGScheduler:54 - Submitting 1 missing tasks from ResultStage 2 (PythonRDD[5] at RDD at PythonRDD.scala:49) (first 15 tasks are for partitions Vector(0))
+2018-09-07 11:19:20 INFO  TaskSchedulerImpl:54 - Adding task set 2.0 with 1 tasks
+2018-09-07 11:19:20 INFO  TaskSetManager:54 - Starting task 0.0 in stage 2.0 (TID 2, localhost, executor driver, partition 0, ANY, 7785 bytes)
+2018-09-07 11:19:20 INFO  Executor:54 - Running task 0.0 in stage 2.0 (TID 2)
+2018-09-07 11:19:20 INFO  KafkaRDD:54 - Beginning offset 12 is the same as ending offset skipping NBC_APPS.TBL_MS_PROPERTY 0
+2018-09-07 11:19:20 INFO  PythonRunner:54 - Times: total = 2, boot = -9967, init = 9969, finish = 0
+2018-09-07 11:19:20 INFO  Executor:54 - Finished task 0.0 in stage 2.0 (TID 2). 1235 bytes result sent to driver
+2018-09-07 11:19:20 INFO  TaskSetManager:54 - Finished task 0.0 in stage 2.0 (TID 2) in 11 ms on localhost (executor driver) (1/1)
+2018-09-07 11:19:20 INFO  TaskSchedulerImpl:54 - Removed TaskSet 2.0, whose tasks have all completed, from pool 
+2018-09-07 11:19:20 INFO  DAGScheduler:54 - ResultStage 2 (call at /Users/KarthikeyanDurairaj/Desktop/Sparkshell/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py:2381) finished in 0.022 s
+2018-09-07 11:19:20 INFO  DAGScheduler:54 - Job 2 finished: call at /Users/KarthikeyanDurairaj/Desktop/Sparkshell/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py:2381, took 0.025727 s
+2018-09-07 11:19:20 INFO  JobScheduler:54 - Finished job streaming job 1536333560000 ms.0 from job set of time 1536333560000 ms
+2018-09-07 11:19:20 INFO  JobScheduler:54 - Total delay: 0.080 s for time 1536333560000 ms (execution: 0.052 s)
+2018-09-07 11:19:20 INFO  PythonRDD:54 - Removing RDD 3 from persistence list
+2018-09-07 11:19:20 INFO  BlockManager:54 - Removing RDD 3
+2018-09-07 11:19:20 INFO  KafkaRDD:54 - Removing RDD 2 from persistence list
+2018-09-07 11:19:20 INFO  BlockManager:54 - Removing RDD 2
+2018-09-07 11:19:20 INFO  ReceivedBlockTracker:54 - Deleting batches: 
+2018-09-07 11:19:20 INFO  InputInfoTracker:54 - remove old batch metadata: 1536333540000 ms
+Traceback (most recent call last):
+  File "/Users/KarthikeyanDurairaj/compacttopic/devclusterlocal/tbl_ms_property_compacttopic.py", line 168, in <module>
+    ssc.awaitTermination()
+  File "/Users/KarthikeyanDurairaj/Desktop/Sparkshell/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/Users/KarthikeyanDurairaj/Desktop/Sparkshell/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py", line 1255, in __call__
+  File "/Users/KarthikeyanDurairaj/Desktop/Sparkshell/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py", line 985, in send_command
+  File "/Users/KarthikeyanDurairaj/Desktop/Sparkshell/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py", line 1152, in send_command
+  File "/anaconda3/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+  File "/Users/KarthikeyanDurairaj/Desktop/Sparkshell/python/lib/pyspark.zip/pyspark/context.py", line 246, in signal_handler
+KeyboardInterrupt
+2018-09-07 11:19:24 INFO  StreamingContext:54 - Invoking stop(stopGracefully=false) from shutdown hook
+2018-09-07 11:19:24 INFO  ReceiverTracker:54 - ReceiverTracker stopped
+2018-09-07 11:19:24 INFO  JobGenerator:54 - Stopping JobGenerator immediately
+2018-09-07 11:19:24 INFO  RecurringTimer:54 - Stopped timer for JobGenerator after time 1536333560000
+2018-09-07 11:19:24 INFO  JobGenerator:54 - Stopped JobGenerator
+2018-09-07 11:19:24 INFO  JobScheduler:54 - Stopped JobScheduler
+2018-09-07 11:19:24 INFO  ContextHandler:910 - Stopped o.s.j.s.ServletContextHandler@319e293c{/streaming,null,UNAVAILABLE,@Spark}
+2018-09-07 11:19:24 INFO  ContextHandler:910 - Stopped o.s.j.s.ServletContextHandler@5b593cdb{/streaming/batch,null,UNAVAILABLE,@Spark}
+2018-09-07 11:19:24 INFO  ContextHandler:910 - Stopped o.s.j.s.ServletContextHandler@4cd43ef9{/static/streaming,null,UNAVAILABLE,@Spark}
+2018-09-07 11:19:24 INFO  StreamingContext:54 - StreamingContext stopped successfully
+2018-09-07 11:19:24 INFO  SparkContext:54 - Invoking stop() from shutdown hook
+2018-09-07 11:19:24 INFO  AbstractConnector:318 - Stopped Spark@58be569d{HTTP/1.1,[http/1.1]}{0.0.0.0:4041}
+2018-09-07 11:19:24 INFO  ContextCleaner:54 - Cleaned accumulator 10
+2018-09-07 11:19:24 INFO  ContextCleaner:54 - Cleaned accumulator 69
+2018-09-07 11:19:24 INFO  ContextCleaner:54 - Cleaned accumulator 3
+2018-09-07 11:19:24 INFO  ContextCleaner:54 - Cleaned accumulator 31
+2018-09-07 11:19:24 INFO  ContextCleaner:54 - Cleaned accumulator 58
+2018-09-07 11:19:24 INFO  ContextCleaner:54 - Cleaned accumulator 23
+2018-09-07 11:19:24 INFO  ContextCleaner:54 - Cleaned accumulator 25
+2018-09-07 11:19:24 INFO  SparkUI:54 - Stopped Spark web UI at http://192.168.0.27:4041
+2018-09-07 11:19:24 INFO  BlockManagerInfo:54 - Removed broadcast_2_piece0 on 192.168.0.27:50726 in memory (size: 4.5 KB, free: 366.3 MB)
+2018-09-07 11:19:24 INFO  MapOutputTrackerMasterEndpoint:54 - MapOutputTrackerMasterEndpoint stopped!
+2018-09-07 11:19:24 INFO  MemoryStore:54 - MemoryStore cleared
+2018-09-07 11:19:24 INFO  BlockManager:54 - BlockManager stopped
+2018-09-07 11:19:24 INFO  BlockManagerMaster:54 - BlockManagerMaster stopped
+2018-09-07 11:19:24 INFO  OutputCommitCoordinator$OutputCommitCoordinatorEndpoint:54 - OutputCommitCoordinator stopped!
+2018-09-07 11:19:24 INFO  SparkContext:54 - Successfully stopped SparkContext
+2018-09-07 11:19:24 INFO  ShutdownHookManager:54 - Shutdown hook called
+2018-09-07 11:19:24 INFO  ShutdownHookManager:54 - Deleting directory /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-68f38fbf-0340-4d3b-877b-49cf2109bb2b
+2018-09-07 11:19:24 INFO  ShutdownHookManager:54 - Deleting directory /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1
+2018-09-07 11:19:24 INFO  ShutdownHookManager:54 - Deleting directory /private/var/folders/9p/j50lrpf117q2cn74kh5f8z0h0000gp/T/spark-f280bdbd-1430-47cc-8a8d-66df50d269b1/pyspark-522fb399-aa02-414f-8319-09e297606264
